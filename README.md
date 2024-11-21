@@ -33,7 +33,8 @@ O layout foi construído com o auxílio de templates da **W3Schools**, garantind
 ├── assets/
 │   ├── fachada.png     # Imagem de fundo do banner
 │   ├── fachada2.jpg    # Imagem da seção 'Sobre'
+```
 
 ## 🔗 **Resultado Final**
 
-https://cinthiagon.github.io/provinciadelucca/ 
+[Portal Virtual - Condomínio Província de Lucca](https://cinthiagon.github.io/provinciadelucca/)  
