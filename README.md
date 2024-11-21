@@ -2,7 +2,9 @@
 
 Este repositório contém o código-fonte de um portal virtual desenvolvido para o **Edifício Província de Lucca**, centralizando informações e serviços para moradores e colaboradores do condomínio.<br>
 
-O projeto foi desenvolvido como requisito parcial à conclusão da disciplina "Atividades de Extensão: Integração de Competências Para Transformar o Eu, o Outro e a Sociedade", do curso de Análise e Desenvolvimento de Sistemas, da Universdade Cruzeiro do Sul / Positivo. O seu objetivo era realizar uma intervenção na sociedade e resolver um problema real - a dificuldade de organização da administração do condomínio em questão, com foco sobretudo na gestão sustentável de resíduos. 
+O projeto foi desenvolvido como requisito parcial à conclusão da disciplina "Atividades de Extensão: Integração de Competências Para Transformar o Eu, o Outro e a Sociedade", do primeiro período curso de **Análise e Desenvolvimento de Sistemas da Universidade Cruzeiro do Sul / Positivo**. O seu objetivo era "realizar uma intervenção na sociedade e resolver um problema real" - neste caso, a dificuldade de organização da administração do condomínio em questão, com foco sobretudo na gestão sustentável de resíduos.<br>
+
+A prestação do serviço (desenvolvimento do site) foi acompanhada de uma roda de conversa sobre gestão de resíduos, gestão participativa de ambientes comuns e lei geral de proteção de dados. 
 
 ## 📋 Descrição
 
